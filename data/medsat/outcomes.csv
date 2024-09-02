@@ -1,0 +1,8 @@
+"type","name","condition","definition","medsat_name"
+"metabolic","diabetes_quantitiy_per_capita","diabetes","the total yearly amount of prescritptions for diabetes","o_diabetes_quantity_per_capita"
+"metabolic","hypertension_quantitiy_per_capita","hypertension","the total yearly amount of prescritptions for hypertension","o_hypertension_quantity_per_capita"
+"respiratory","asthma_quantitiy_per_capita","asthma","the total yearly amount of prescritptions for asthma","o_asthma_quantity_per_capita"
+"mental","depression_quantitiy_per_capita","depression","the total yearly amount of antidepressant prescritptions","o_depression_quantity_per_capita"
+"mental","anxiety_quantitiy_per_capita","anxiety","the total yearly amount of prescritptions for anxiety","o_anxiety_quantity_per_capita"
+"","opioids_quantitiy_per_capita","opioids","the total yearly amount of opioid prescritptions","o_opioids_quantity_per_capita"
+"","total_quantitiy_per_capita","total","the total yearly amount of prescritptions for any condition","o_total_quantity_per_capita"
